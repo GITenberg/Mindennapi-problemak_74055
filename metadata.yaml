@@ -1,0 +1,49 @@
+_repo: Mindennapi-problemak_74055
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Szomaházy, István
+    alias: Szomahazy, Istvan
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '57324'
+    url: http://www.gutenberg.org/2009/agents/57324
+    wikipedia: https://hu.wikipedia.org/wiki/Szomah%C3%A1zy_Istv%C3%A1n
+description: ''
+gutenberg_issued: '2024-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74055'
+language: hu
+pgterms:marc905: 20240713140733szomahzy
+pgterms:marc906: '1909'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: '  $aBudapest :$bGrill Károly Könyvkiadóvállalata, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Magyar irók aranykönyvtára, 30. kötet
+subjects:
+- !lcsh 'Hungarian essays'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: A snájdig leány -- Házasságközvetitők -- Levelezés -- Vőlegényjelöltek
+  -- Háztűznézés -- Jegyesek -- A szökevények -- A flirtelés határai -- A mama lánya
+  -- A szerelem sportsmanjei -- A hallgató asszony -- A könyvvezető feleség -- Kártyázó
+  asszonyok -- Hires emberek feleségei -- Toilette-számlák -- A velezpongyola -- Az
+  ujságolvasó férj -- A férj felöltője -- A régi kedves -- A szédelgő -- Kirándulás
+  a vánkos alá -- Más -- „Maga“ vagy „te“? -- Civakodó házastársak -- Lidia és a többiek
+  -- A szalmaözvegy kiskátéja -- A tipikus pesti család -- A kölcsönkérés technikája
+  -- Sértődések -- A szép férfi -- Pikantériák -- Tavaszi gondok -- Az utipodgyász
+  -- Téli fürdőzés -- Levéltitok -- Lovagiasság -- A kézcsókról -- A köhögő nézőtér
+  -- Egylovasok és kétlovasok -- Egyenruhás rablók -- Full dress -- Idegek -- A pesti
+  tónus -- A bezárt ebédlő -- A fehér asztal analfabétái -- A levegőbe néző ember
+  -- A székesfővárosi pacsirta -- Havanna és tengeri rák -- A vendégszeretet túlzásai
+  -- Ingujjban -- Babonaság -- A szép nénik -- A vásárló szenvedélyről -- Az utca
+  lovagja -- Közkeletü neveletlenségek -- A jóakaró -- Lemondás -- Az ördöghinta --
+  A magántisztek -- Öröm és gyász -- Vacsora vagy illuzió? -- A látszat -- Akiknek
+  mindenki tetszik -- A tréfás fiuk -- Kaland a nápolyi gyorsvonaton.
+title: Mindennapi problémák
+url: http://www.gutenberg.org/ebooks/74055
